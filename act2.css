@@ -1,0 +1,66 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: #ffb86b;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: #ff6b6b;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: #3ddc84;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: smaller;
+}
+header{
+    background-image: url(https://cdn.wallpapersafari.com/10/47/wEziqy.png);
+    padding: 10px;
+    margin: 15px 20px;
+}
+nav{
+    background-color: white;
+}
+li:hover{
+    background-color: #3ddc84;
+    padding: 10px;
+}
+
+#about{
+   background-color: #315b9e; 
+   border: 5px solid;
+   border-color: black;
+   padding: 20px;
+   margin: 10px ;
+}
+#portfolio{
+    background-color: #7c5cff; 
+   border: 5px solid;
+   border-color: black;
+   padding: 20px;
+   margin: 10px;
+}
+#contact{
+ background-color: #96a0b7; 
+   border: 5px solid;
+   border-color: black;
+   padding: 20px;
+   margin: 10px ;
+}
+.project{
+border: 3px solid white;
+padding: 10px;
+margin: 5px;
+background-image: url(https://static.vecteezy.com/system/resources/thumbnails/041/043/728/small_2x/ai-generated-sunset-sky-background-with-tiny-clouds-and-rainbow-photo.jpg);
+}
+div p{
+    text-shadow: 15px 20px 30px white;
+}
+nav ul>li a{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
